@@ -1,0 +1,14 @@
+name: water_mind_puzzle
+description: Simple Water-Mind demo made in Flutter
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.4.0 <4.0.0"
+
+dependencies:
+  flutter: { sdk: flutter }
+  google_mobile_ads: ^4.0.0
+  google_fonts: ^6.2.0
+
+flutter:
+  uses-material-design: true
